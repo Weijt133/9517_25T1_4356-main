@@ -1,4 +1,4 @@
-# 9517_25T1_4356
+# Comparison between Image Classification Algorithms
 
 ## Project Overview
 This project implements various deep learning models for image classification tasks, including ResNet, Vision Transformer (ViT), and Kolmogorov-Arnold Networks (KAN). The implementation includes data preparation, feature extraction, and model training pipelines.
